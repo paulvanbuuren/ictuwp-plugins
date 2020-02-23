@@ -1,6 +1,6 @@
 {
   "name": "paulvanbuuren/ictuwp-plugins",
-  "type": "wordpress-plugin",
+  "type": "wordpress-dropin",
   "license": "GPL-3.0",
   "description": "Collection of plugins for ICTU ",
   "homepage": "https://www.gebruikercentraal.nl",
