@@ -1,1 +1,14 @@
-
+{
+  "name": "paulvanbuuren/ictuwp-plugins",
+  "type": "wordpress-plugin",
+  "license": "GPL-3.0",
+  "description": "Collection of plugins for ICTU ",
+  "homepage": "https://www.gebruikercentraal.nl",
+  "authors": [
+    {
+      "name": "Paul van Buuren",
+      "email": "paul@wbvb.nl",
+      "homepage": "https://wbvb.nl"
+    }
+  ]
+}
