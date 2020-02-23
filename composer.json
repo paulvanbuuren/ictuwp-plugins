@@ -14,7 +14,8 @@
 
     "extra": {
         "installer-paths": {
-            "ictuwp/wp-content/plugins/{$name}/": ["wordpress-plugin"]
-        }
+            "ictuwp/wp-content/plugins/": ["type:wordpress-plugin"]
+        }    
     }  
+
 }
